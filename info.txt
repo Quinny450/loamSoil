@@ -1,0 +1,13 @@
+{
+    "Name": "Loam Soil",
+    "ID": "loamSoil",
+    "Author": "YourName",
+    "Description": "Adds a new soil type, Loam, to the Garden minigame. Loam gives all crops predictable growth and reduces passive plant effects by 20%.",
+    "ModVersion": 1.0,
+    "GameVersion": 2.053,
+    "Date": "6/4/2025",
+    "Dependencies": [],
+    "AllowSteamAchievs": 1,
+    "Disabled": 0,
+    "Icon": "thumbnail.png"
+}
